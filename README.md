@@ -1,2 +1,2 @@
-# Szakdolgozat_Michaillat_reprodukci-
-A feltöltött anyagok tartalmazzák Pascal Michaillat (2012)-es cikkjében használt modelljének magyar környezetben történő reprodukciójához szükséges numerikus kódokat, illetve Michaillat modelljének egyesült államokbeli adatokon történő kiegészített érzékenységi vizsgálatait
+# Szakdolgozat_Michaillat_reprodukció
+The uploaded material includes the numerical codes needed to reproduce Pascal Michaillat's model used in his article (2012) in the Hungarian context, and the supplemented sensitivity tests of Michaillat's model on US data.
